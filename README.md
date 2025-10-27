@@ -1,4 +1,4 @@
-# 🌊 Overflow Team (You need to take action. There is no systematic procedure you can follow)
+# ![Overflow logo](./229926529.png) Overflow Team (You need to take action. There is no systematic procedure you can follow)
 
 **Overflow Team** is a small but powerful group of engineers, researchers, and creators with one mission:  
 👉 *to ease all aspects of life with AI.*
