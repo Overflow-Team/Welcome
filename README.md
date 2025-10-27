@@ -60,6 +60,6 @@ Whether you’re a collaborator, partner, or just curious, **reach out and join 
 
 ---
 
-📫 **Contact us**: ubuhobbit@gmail.com
+📫 **Contact us**: ubuhobbit@gmail.com, ubaydullo.uz
 
 🌊 *Overflow Team — easing life with AI.*
