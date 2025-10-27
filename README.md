@@ -1,4 +1,4 @@
-# <img src="./229926529.png" alt="overflow logo" width="200"/> Overflow Team (You need to take action. There is no systematic procedure you can follow)
+# <img src="./229926529.png" alt="overflow logo" width="40"/> Overflow Team (You need to take action. There is no systematic procedure you can follow)
 
 **Overflow Team** is a small but powerful group of engineers, researchers, and creators with one mission:  
 👉 *to ease all aspects of life with AI.*
