@@ -1,3 +1,10 @@
+<script
+  src="https://support.overflow.uz/widget/widget.js"
+  data-project-uuid="4156e733-91c8-4017-a569-7a6ea473bce6"
+  data-language="uz"
+  defer
+></script>
+
 # <img src="./229926529.png" alt="overflow logo" width="30"/> Overflow Team (You need to take action. There is no systematic procedure you can follow)
 
 **Overflow Team** is a small but powerful group of engineers, researchers, and creators with one mission:  
